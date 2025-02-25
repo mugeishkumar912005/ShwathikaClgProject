@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://mugeishkumar912005.github.io/ShwathikaClgProject",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
